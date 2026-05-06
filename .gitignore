@@ -1,0 +1,4 @@
+*-private.key
+*.key
+*.pem
+attack/output/
